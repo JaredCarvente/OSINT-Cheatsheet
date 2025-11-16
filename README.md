@@ -43,7 +43,8 @@ https://hunter.io/
 https://phonebook.cz/  
 
 - Email reputation  
-https://emailrep.io/  
+https://emailrep.io/
+- Gmail details
 https://gmail-osint.activetk.jp/  
 
 # IP directions
