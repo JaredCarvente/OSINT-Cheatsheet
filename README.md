@@ -20,7 +20,7 @@ https://gravatar.com/site/check
 https://castrickclues.com/  
 https://www.predictasearch.com/  
 https://epieos.com/  
-https://github.com/p1ngul1n0/blackbird
+https://github.com/p1ngul1n0/blackbird  
 https://www.osint.industries/   
 
 - Validate emails  
@@ -45,7 +45,7 @@ https://whatismyipaddress.com/ip-lookup
 - Check leaked info of a person  
 https://dehashed.com/  
 https://leakpeek.com/  
-https://breachdirectory.org/
+https://breachdirectory.org/  
 https://haveibeenzuckered.com/  
 
 - Tools to check leaked databases  
