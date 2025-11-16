@@ -2,12 +2,12 @@
 
 
 # Search engines
-- Allow multiple searches in different search engines
+- Allow multiple searches in different search engines  
 https://inteltechniques.com/tools/Search.html
 
 
 # People search
-- Find social accounts
+- Find social accounts  
 https://intelx.io/  
 https://www.idcrawl.com/  
 https://whatsmyname.app/  
@@ -15,58 +15,57 @@ https://www.social-searcher.com/
 https://www.osint.industries/  
 
 # Emails
-- Find accounts related to an email account
-https://gravatar.com/site/check
-https://castrickclues.com/
-https://www.predictasearch.com/
-https://epieos.com/
-https://github.com/p1ngul1n0/blackbird
+- Find accounts related to an email account  
+https://gravatar.com/site/check  
+https://castrickclues.com/  
+https://www.predictasearch.com/  
+https://epieos.com/  
+https://github.com/p1ngul1n0/blackbird  
 
-- Validate emails
+- Validate emails  
 https://www.experte.com/email-finder
 
-- Permutate usernames to find possible email accounts
-http://metricsparrow.com/toolkit/email-permutator/
+- Permutate usernames to find possible email accounts  
+http://metricsparrow.com/toolkit/email-permutator/  
 
-- Analyse organizational emails
-https://hunter.io/
-https://phonebook.cz/
+- Analyse organizational emails  
+https://hunter.io/  
+https://phonebook.cz/  
 
-- Email reputation
-https://emailrep.io/
-
-https://gmail-osint.activetk.jp/
+- Email reputation  
+https://emailrep.io/  
+https://gmail-osint.activetk.jp/  
 
 # IP directions
-https://whatismyipaddress.com/ip-lookup
+https://whatismyipaddress.com/ip-lookup  
 
 # Data Leaks
 
-- Check leaked info of a person
-https://dehashed.com/
-https://leakpeek.com/
-https://breachdirectory.org/
+- Check leaked info of a person  
+https://dehashed.com/  
+https://leakpeek.com/  
+https://breachdirectory.org/  
 
-- Tools to check leaked databases
-https://www.utorrent.com/downloads/win/
-https://www.mythicsoft.com/agentransack/download/
+- Tools to check leaked databases  
+https://www.utorrent.com/downloads/win/   
+https://www.mythicsoft.com/agentransack/download/  
 
-- Facebook database
-https://github.com/davidfegyver/facebook-533m
-
-- Linkedin database
-https://archive.org/details/LIUsers.7z
-- Snapchat database
-https://archive.org/details/SnapChat.7z
-- Additional databases
-https://archive.md/rNWZE
-https://sizeof.cat/post/data-leaks/
+- Facebook database  
+https://github.com/davidfegyver/facebook-533m  
+ 
+- Linkedin database  
+https://archive.org/details/LIUsers.7z  
+- Snapchat database  
+https://archive.org/details/SnapChat.7z  
+- Additional databases   
+https://archive.md/rNWZE  
+https://sizeof.cat/post/data-leaks/  
 
 
 # Tools
 
-- Metadata
-https://jimpl.com/
+- Metadata  
+https://jimpl.com/  
 https://www.metadata2go.com/
 - AI Tools
 https://www.dorkgpt.com/
