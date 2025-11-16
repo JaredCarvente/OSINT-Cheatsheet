@@ -7,7 +7,7 @@ https://inteltechniques.com/tools/Search.html
 
 
 # People search
-- Find social accounts  
+- Find social accounts (either with actual name or username)  
 https://intelx.io/  
 https://www.idcrawl.com/  
 https://whatsmyname.app/  
@@ -28,7 +28,7 @@ https://www.experte.com/email-finder
 - Permutate usernames to find possible email accounts  
 http://metricsparrow.com/toolkit/email-permutator/  
 
-- Analyse organizational emails  
+- Analyse organizational emails (patterns, structures, etc.)
 https://hunter.io/  
 https://phonebook.cz/  
 
