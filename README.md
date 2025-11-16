@@ -20,7 +20,8 @@ https://gravatar.com/site/check
 https://castrickclues.com/  
 https://www.predictasearch.com/  
 https://epieos.com/  
-https://github.com/p1ngul1n0/blackbird  
+https://github.com/p1ngul1n0/blackbird
+https://www.osint.industries/   
 
 - Validate emails  
 https://www.experte.com/email-finder
@@ -44,7 +45,8 @@ https://whatismyipaddress.com/ip-lookup
 - Check leaked info of a person  
 https://dehashed.com/  
 https://leakpeek.com/  
-https://breachdirectory.org/  
+https://breachdirectory.org/
+https://haveibeenzuckered.com/  
 
 - Tools to check leaked databases  
 https://www.utorrent.com/downloads/win/   
@@ -79,7 +81,11 @@ https://urlclean.com/
 - Time  
 https://www.timestamp-converter.com/  
 - Access to foreign websites  
-https://chromewebstore.google.com/detail/squarex-be-secure-anonymo/kapjaoifikajdcdehfdlmojlepfpkpoe  
+https://chromewebstore.google.com/detail/squarex-be-secure-anonymo/kapjaoifikajdcdehfdlmojlepfpkpoe
+
+# Data analysis
+- Relationship diagrams  
+https://www.osintracker.com/  
 
 # SOCMINT
 
