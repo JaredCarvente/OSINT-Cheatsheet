@@ -12,7 +12,16 @@ https://intelx.io/
 https://www.idcrawl.com/  
 https://whatsmyname.app/  
 https://www.social-searcher.com/  
-https://www.osint.industries/  
+https://www.osint.industries/
+
+# Personal details
+- General info  
+https://radaris.com/  
+https://thatsthem.com/  
+https://www.fastpeoplesearch.com/  
+https://www.fastbackgroundcheck.com/  
+https://nuwber.com/  
+https://www.truepeoplesearch.com/  
 
 # Emails
 - Find accounts related to an email account  
