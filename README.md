@@ -1,39 +1,98 @@
 # OSINT-tools-for-search-engines-
 
 
-Search engines
+# Search engines
+- Allow multiple searches in different search engines
 https://inteltechniques.com/tools/Search.html
 
-People seearch
+
+# People search
+- Find social accounts
 https://intelx.io/
+https://www.idcrawl.com/
+https://whatsmyname.app/
+https://www.social-searcher.com/
+https://www.osint.industries/
 
-Emails
+# Emails
+- Find accounts related to an email account
+https://gravatar.com/site/check
+https://castrickclues.com/
+https://www.predictasearch.com/
+https://epieos.com/
+https://github.com/p1ngul1n0/blackbird
 
-IPS
+- Validate emails
+https://www.experte.com/email-finder
+
+- Permutate usernames to find possible email accounts
+http://metricsparrow.com/toolkit/email-permutator/
+
+- Analyse organizational emails
+https://hunter.io/
+https://phonebook.cz/
+
+- Email reputation
+https://emailrep.io/
+
+https://gmail-osint.activetk.jp/
+
+# IP directions
 https://whatismyipaddress.com/ip-lookup
 
-Leaks
+# Data Leaks
+
+- Check leaked info of a person
 https://dehashed.com/
+https://leakpeek.com/
+https://breachdirectory.org/
+
+- Tools to check leaked databases
 https://www.utorrent.com/downloads/win/
 https://www.mythicsoft.com/agentransack/download/
 
-Metadata
+- Facebook database
+https://github.com/davidfegyver/facebook-533m
+
+- Linkedin database
+https://archive.org/details/LIUsers.7z
+- Snapchat database
+https://archive.org/details/SnapChat.7z
+- Additional databases
+https://archive.md/rNWZE
+https://sizeof.cat/post/data-leaks/
+
+
+# Tools
+
+- Metadata
 https://jimpl.com/
 https://www.metadata2go.com/
-
-AI Tools
+- AI Tools
 https://www.dorkgpt.com/
-
-
-Tools
-Store notes locally
+- Store notes locally
 https://keepnote.org/
-Screenshots
+- Screenshots
 https://app.prntscr.com/en/index.html
 https://getgreenshot.org/
-
-URL cleaner
+- URL cleaner
 https://urlclean.com/
+- Time
+https://www.timestamp-converter.com/
+
+# SOCMINT
+
+- Facebook
+https://lookup-id.com/ 
+https://findidfb.com/
+- Instagram
+https://fameswap.com/tool-instagram-user-id
+https://commentpicker.com/instagram-user-id.php
+https://commentpicker.com/instagram-username.php
+
+
+
+
 
 Access to foreign websites
 https://chromewebstore.google.com/detail/squarex-be-secure-anonymo/kapjaoifikajdcdehfdlmojlepfpkpoe
