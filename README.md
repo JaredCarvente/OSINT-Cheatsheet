@@ -8,11 +8,11 @@ https://inteltechniques.com/tools/Search.html
 
 # People search
 - Find social accounts
-https://intelx.io/
-https://www.idcrawl.com/
-https://whatsmyname.app/
-https://www.social-searcher.com/
-https://www.osint.industries/
+https://intelx.io/  
+https://www.idcrawl.com/  
+https://whatsmyname.app/  
+https://www.social-searcher.com/  
+https://www.osint.industries/  
 
 # Emails
 - Find accounts related to an email account
