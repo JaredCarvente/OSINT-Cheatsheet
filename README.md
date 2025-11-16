@@ -65,31 +65,31 @@ https://sizeof.cat/post/data-leaks/
 # Tools
 
 - Metadata  
-https://jimpl.com/  
-https://www.metadata2go.com/
-- AI Tools
-https://www.dorkgpt.com/
-- Store notes locally
-https://keepnote.org/
-- Screenshots
-https://app.prntscr.com/en/index.html
-https://getgreenshot.org/
-- URL cleaner
-https://urlclean.com/
-- Time
-https://www.timestamp-converter.com/
-- Access to foreign websites
-https://chromewebstore.google.com/detail/squarex-be-secure-anonymo/kapjaoifikajdcdehfdlmojlepfpkpoe
+https://jimpl.com/     
+https://www.metadata2go.com/  
+- AI Tools  
+https://www.dorkgpt.com/  
+- Store notes locally  
+https://keepnote.org/  
+- Screenshots  
+https://app.prntscr.com/en/index.html  
+https://getgreenshot.org/  
+- URL cleaner  
+https://urlclean.com/  
+- Time  
+https://www.timestamp-converter.com/  
+- Access to foreign websites  
+https://chromewebstore.google.com/detail/squarex-be-secure-anonymo/kapjaoifikajdcdehfdlmojlepfpkpoe  
 
 # SOCMINT
 
-- Facebook
-https://lookup-id.com/ 
-https://findidfb.com/
-- Instagram
-https://fameswap.com/tool-instagram-user-id
-https://commentpicker.com/instagram-user-id.php
-https://commentpicker.com/instagram-username.php
+- Facebook  
+https://lookup-id.com/   
+https://findidfb.com/  
+- Instagram  
+https://fameswap.com/tool-instagram-user-id  
+https://commentpicker.com/instagram-user-id.php  
+https://commentpicker.com/instagram-username.php  
 
 
 
