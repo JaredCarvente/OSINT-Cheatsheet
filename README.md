@@ -44,7 +44,7 @@ https://phonebook.cz/
 
 - Email reputation  
 https://emailrep.io/
-- Gmail details
+- Gmail details  
 https://gmail-osint.activetk.jp/  
 
 # IP directions
